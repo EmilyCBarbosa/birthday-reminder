@@ -44,7 +44,7 @@ function getNextBirthday(birthDate) {
 
 export default function List() {
   return (
-    <>
+    <div className="list">
       {data.map((friend) => (
         <article key={friend.id} className="person">
           <img src={friend.avatar} />
@@ -55,6 +55,6 @@ export default function List() {
           </div>
         </article>
       ))}
-    </>
+    </div>
   );
 }

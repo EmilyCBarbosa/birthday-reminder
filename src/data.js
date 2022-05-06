@@ -7,7 +7,7 @@ export default [
   },
   {
     id: 2,
-    name: 'Joana Banana',
+    name: 'Juana Banana',
     avatar: 'https://randomuser.me/api/portraits/women/2.jpg',
     birthDate: new Date('1995-03-08'),
   },
