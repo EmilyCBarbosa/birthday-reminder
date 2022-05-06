@@ -1,3 +1,3 @@
-# react-5q8uep
+# Birthday Reminder
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-5q8uep)
+Um aplicativo que lembra o dia do aniversário dos meus amigos e diz quantos dias falta para o aniversário.
